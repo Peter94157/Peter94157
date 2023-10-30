@@ -1,7 +1,7 @@
 ### Olá, tudo bem? eu sou o Pedro 👋😄
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/pedro-l-57bb93168?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]([https://www.linkedin.com/in/pedro-l-57bb93168/](https://www.linkedin.com/in/pedro-l-57bb93168/))) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-l-57bb93168/)
 
 ![Peter94157 GitHub stats](https://github-readme-stats.vercel.app/api?username=Peter94157&show_icons=true&theme=radical)
 
