@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá, tudo bem? eu sou o Pedro 👋😄
+
+![Peter94157 GitHub stats](https://github-readme-stats.vercel.app/api?username=Peter94157&show_icons=true&theme=radical)
 
 <!--
 **Peter94157/Peter94157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
