@@ -2,7 +2,7 @@
 
 Olá, sou Pedro,  fascinado pela capacidade da tecnologia de transformar ideias em soluções tangíveis, estou comprometido em continuar minha jornada de aprendizado e desenvolvimento profissional. Acredito no poder da colaboração e estou ansioso para conectar-me com profissionais da área de tecnologia que compartilham da paixão por criar e inovar.
 
-##
+
 <div>
 <img width=50rem src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 <img width= 50rem src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
