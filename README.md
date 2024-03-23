@@ -15,23 +15,23 @@ Olá, sou Pedro,  fascinado pela capacidade da tecnologia de transformar ideias 
 
 ## Sobre Mim
 - 🎓 Cursando Ciências da Computação - USJT.
-- 🌱 Focado em Desenvolvimento BackEnd
+- 🌱 Focado em Desenvolvimento BackEnd.
 
 ## Habilidades
 Aqui estão algumas das habilidades em que sou proficientes:
-- Python 
-- java
-- SQL
-- HTML5
-- CSS3
-- JavaScript
-- Node.js
+- Python.
+- java.
+- SQL.
+- HTML5.
+- CSS3.
+- JavaScript.
+- Node.js.
 
 ## Projetos Destacados
 Alguns dos projetos em que trabalhei e dos quais tenho orgulho:
 1. TeleBot: um chatbot do telegram criado no intuito de falar sobre IoT.
 2. Conversor Parquet: Feito em python para realizar a conversão de um arquivo Parquet e transforma-lo em um Csv.
-3. API Node: API criada com Node.js com conexao com banco de dados
+3. API Node: API criada com Node.js com conexao com banco de dados.
 
 ## Conecte-se Comigo
 Fique à vontade para entrar em contato comigo ou se conectar através destas plataformas:
@@ -41,9 +41,9 @@ Fique à vontade para entrar em contato comigo ou se conectar através destas pl
 
 ## Interesses
 Além do meu trabalho profissional, tenho interesse em:
-- Desenvolver soluções
-- Ouvir música
-- Praticar exercício
+- Desenvolver soluções.
+- Ouvir música.
+- Praticar exercício.
 
 ## Obrigado por Visitar!
 Agradeço por passar por aqui. Não hesite em entrar em contato caso queira discutir oportunidades de colaboração, projetos interessantes ou apenas para dizer olá!
